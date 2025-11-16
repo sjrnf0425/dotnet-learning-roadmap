@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\dotnet-learning-roadmap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\webapiwithdi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\webapiwithdi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\webapiwithdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\webapiwithdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\simpledi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|solutionrelative:01-di\\simpledi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\simpledi\\simpledi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|solutionrelative:01-di\\simpledi\\simpledi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:42:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiWithDI",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T10:42:23.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserApiController.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserApiController.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:38:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiWithDI.http",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-16T10:37:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserRepository.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserRepository.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserRepository.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:37:32.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserService.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserService.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserService.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:37:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Program.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:22:58.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\User.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\User.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\User.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:44:46.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\appsettings.json",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\appsettings.json",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T02:39:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleDI",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\SimpleDI.csproj",
+              "RelativeDocumentMoniker": "01-DI\\SimpleDI\\SimpleDI.csproj",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\SimpleDI.csproj",
+              "RelativeToolTip": "01-DI\\SimpleDI\\SimpleDI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T02:22:35.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:45:53.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\Program.cs",
+              "RelativeDocumentMoniker": "01-DI\\SimpleDI\\Program.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\Program.cs",
+              "RelativeToolTip": "01-DI\\SimpleDI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:22:44.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

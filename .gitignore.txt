@@ -1,0 +1,52 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.temp
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish outputs
+publish/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Build artifacts
+*.dll
+*.exe
+
+# Cache
+*.cache/
+*.db
+
+# Others
+*.DS_Store
+Thumbs.db
