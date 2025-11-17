@@ -70,21 +70,19 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:42:50.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T10:42:50.757Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "WebApiWithDI",
+              "Title": "WebApiWithDI.csproj",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
               "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
               "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T10:42:23.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T10:42:23.779Z"
             },
             {
               "$type": "Document",
@@ -94,7 +92,7 @@
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserApiController.cs",
               "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
               "RelativeToolTip": "01-DI\\WebApiWithDI\\UserApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T10:38:12.102Z",
               "EditorCaption": ""
@@ -109,8 +107,7 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-16T10:37:46.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T10:37:46.643Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:37:32.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T10:37:32.16Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:37:22.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T10:37:22.371Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:22:58.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:22:58.364Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:44:46.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T10:44:46.261Z"
             },
             {
               "$type": "Document",
@@ -174,21 +167,19 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-16T02:39:25.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:39:25.35Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "SimpleDI",
+              "Title": "SimpleDI.csproj",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\SimpleDI.csproj",
               "RelativeDocumentMoniker": "01-DI\\SimpleDI\\SimpleDI.csproj",
               "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\SimpleDI.csproj",
               "RelativeToolTip": "01-DI\\SimpleDI\\SimpleDI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T02:22:35.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:22:35.887Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:45:53.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T10:45:53.227Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "01-DI\\SimpleDI\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAywBYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:22:44.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:22:44.923Z"
             }
           ]
         }
