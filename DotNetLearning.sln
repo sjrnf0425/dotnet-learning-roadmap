@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDI", "01-DI\SimpleDI\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-FluentValidation", "02-FluentValidation", "{1E296A39-A86D-43A9-B5D2-CE0A46506329}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluentValidation", "02-FluentValidation\fluentValidation\fluentValidation.csproj", "{3AD8B383-950B-42EA-BE53-1AD18B28E15F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fluentValidationLearning", "02-FluentValidation\fluentValidation\fluentValidationLearning.csproj", "{3AD8B383-950B-42EA-BE53-1AD18B28E15F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

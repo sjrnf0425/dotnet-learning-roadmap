@@ -1,24 +1,29 @@
+using fluentValidation.Application.Behaviors;
+using MediatR;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
 builder.Services.AddControllers();
+builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient(typeof(IPiplelineBehavior<,>), typeof(ValidationBehavior<,>));
+
+// MediatR
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
+
+
+// Pipeline Behavior µî·Ï
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+
 
 var app = builder.Build();
-
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-app.UseHttpsRedirection();
 app.MapControllers();
+
 
 app.Run();
