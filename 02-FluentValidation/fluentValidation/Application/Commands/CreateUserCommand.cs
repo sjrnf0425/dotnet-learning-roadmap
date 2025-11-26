@@ -1,3 +1,0 @@
-﻿using MediatR;
-
-public record CreateUserCommand(string Name, int Age, string Email) : IRequest<Guid>;
