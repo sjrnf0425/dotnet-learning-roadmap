@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Workspace\\dotnet-learning-roadmap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\controllers\\userrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\controllers\\userrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\userrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\userrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\fluentvalidationlearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\fluentvalidationlearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -66,6 +86,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserRequestController.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Controllers\\UserRequestController.cs",
+              "RelativeDocumentMoniker": "fluentValidationLearning\\Controllers\\UserRequestController.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Controllers\\UserRequestController.cs",
+              "RelativeToolTip": "fluentValidationLearning\\Controllers\\UserRequestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:53:31.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRequestValidator.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequestValidator.cs",
+              "RelativeDocumentMoniker": "fluentValidationLearning\\UserRequestValidator.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequestValidator.cs",
+              "RelativeToolTip": "fluentValidationLearning\\UserRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:51:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequest.cs",
+              "RelativeDocumentMoniker": "fluentValidationLearning\\UserRequest.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequest.cs",
+              "RelativeToolTip": "fluentValidationLearning\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:49:57.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fluentValidationLearning",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\fluentValidationLearning.csproj",
+              "RelativeDocumentMoniker": "fluentValidationLearning\\fluentValidationLearning.csproj",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\fluentValidationLearning.csproj",
+              "RelativeToolTip": "fluentValidationLearning\\fluentValidationLearning.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T13:42:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Program.cs",
+              "RelativeDocumentMoniker": "fluentValidationLearning\\Program.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Program.cs",
+              "RelativeToolTip": "fluentValidationLearning\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:40:32.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -76,19 +161,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Program.cs",
               "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
               "RelativeToolTip": "01-DI\\WebApiWithDI\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABIwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:22:58.364Z"
+              "WhenOpened": "2025-11-16T02:22:58.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SimpleDI.csproj",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\SimpleDI.csproj",
               "RelativeDocumentMoniker": "01-DI\\SimpleDI\\SimpleDI.csproj",
@@ -101,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
@@ -109,11 +195,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:42:50.757Z"
+              "WhenOpened": "2025-11-16T10:42:50.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "WebApiWithDI.csproj",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
@@ -126,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UserApiController.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserApiController.cs",
@@ -134,11 +221,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\UserApiController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvxMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:38:12.102Z"
+              "WhenOpened": "2025-11-16T10:38:12.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "WebApiWithDI.http",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.http",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
@@ -146,11 +234,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-16T10:37:46.643Z"
+              "WhenOpened": "2025-11-16T10:37:46.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserRepository.cs",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserRepository.cs",
@@ -158,11 +247,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:37:32.16Z"
+              "WhenOpened": "2025-11-16T10:37:32.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserService.cs",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserService.cs",
@@ -170,11 +260,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:37:22.371Z"
+              "WhenOpened": "2025-11-16T10:37:22.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\User.cs",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\User.cs",
@@ -182,11 +273,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:44:46.261Z"
+              "WhenOpened": "2025-11-16T10:44:46.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\appsettings.json",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\appsettings.json",
@@ -194,11 +286,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-16T02:39:25.35Z"
+              "WhenOpened": "2025-11-16T02:39:25.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
@@ -206,11 +299,12 @@
               "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:45:53.227Z"
+              "WhenOpened": "2025-11-16T10:45:53.227Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\Program.cs",
               "RelativeDocumentMoniker": "01-DI\\SimpleDI\\Program.cs",
@@ -218,7 +312,8 @@
               "RelativeToolTip": "01-DI\\SimpleDI\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAwBYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:22:44.923Z"
+              "WhenOpened": "2025-11-16T02:22:44.923Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,6 @@
+@fluentValidationLearning_HostAddress = http://localhost:5082
+
+GET {{fluentValidationLearning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
