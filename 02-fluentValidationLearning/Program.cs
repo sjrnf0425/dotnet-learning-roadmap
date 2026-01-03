@@ -12,6 +12,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IValidator<UserRequest>, UserRequestValidator>();
 
+builder.Services.AddValidatorsFromAssemblyContaining<UserRequestValidator>();
 
 var app = builder.Build();
 

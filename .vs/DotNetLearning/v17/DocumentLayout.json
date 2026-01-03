@@ -3,59 +3,76 @@
   "WorkspaceRootPath": "D:\\Workspace\\dotnet-learning-roadmap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\controllers\\userrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\controllers\\userrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\userrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\userrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2CC075E-7B36-4D78-B4EE-78DE3380B1E1}|GetWeather.Service\\GetWeather.Service.csproj|d:\\workspace\\dotnet-learning-roadmap\\getweather.service\\callweatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CC075E-7B36-4D78-B4EE-78DE3380B1E1}|GetWeather.Service\\GetWeather.Service.csproj|solutionrelative:getweather.service\\callweatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\CallWeatherApiWithRefit.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\CallWeatherApiWithRefit.csproj|solutionrelative:02-refit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|d:\\workspace\\dotnet-learning-roadmap\\fluentvalidationlearning\\fluentvalidationlearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{38C06C9F-07A5-4BA2-A537-CA2AD3C3DBFC}|fluentValidationLearning\\fluentValidationLearning.csproj|solutionrelative:fluentvalidationlearning\\fluentvalidationlearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2CC075E-7B36-4D78-B4EE-78DE3380B1E1}|GetWeather.Service\\GetWeather.Service.csproj|d:\\workspace\\dotnet-learning-roadmap\\getweather.service\\callweatherapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CC075E-7B36-4D78-B4EE-78DE3380B1E1}|GetWeather.Service\\GetWeather.Service.csproj|solutionrelative:getweather.service\\callweatherapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\simpledi\\simpledi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|solutionrelative:01-di\\simpledi\\simpledi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\getweather.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\getweather.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|d:\\workspace\\dotnet-learning-roadmap\\02-refit\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00252EF7-D4C8-40EA-AE95-6015293A5237}|02-Refit\\GetWeather.Web.csproj|solutionrelative:02-refit\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CC075E-7B36-4D78-B4EE-78DE3380B1E1}|GetWeather.Service\\GetWeather.Service.csproj|d:\\workspace\\dotnet-learning-roadmap\\getweather.service\\getweather.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2CC075E-7B36-4D78-B4EE-78DE3380B1E1}|GetWeather.Service\\GetWeather.Service.csproj|solutionrelative:getweather.service\\getweather.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\simpledi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|solutionrelative:01-di\\simpledi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\webapiwithdi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\webapiwithdi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\webapiwithdi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\webapiwithdi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\webapiwithdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\webapiwithdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\simpledi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26E6D31D-C59F-4DA7-8653-80AF6A62DC21}|01-DI\\SimpleDI\\SimpleDI.csproj|solutionrelative:01-di\\simpledi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|d:\\workspace\\dotnet-learning-roadmap\\01-di\\webapiwithdi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7B0D475D-3548-45F5-91C4-26BD7AEB0558}|01-DI\\WebApiWithDI\\WebApiWithDI.csproj|solutionrelative:01-di\\webapiwithdi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,233 +95,261 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserRequestController.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Controllers\\UserRequestController.cs",
-              "RelativeDocumentMoniker": "fluentValidationLearning\\Controllers\\UserRequestController.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Controllers\\UserRequestController.cs",
-              "RelativeToolTip": "fluentValidationLearning\\Controllers\\UserRequestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:53:31.324Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "02-Refit\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "02-Refit\\Pages\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:25:50.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserRequestValidator.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequestValidator.cs",
-              "RelativeDocumentMoniker": "fluentValidationLearning\\UserRequestValidator.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequestValidator.cs",
-              "RelativeToolTip": "fluentValidationLearning\\UserRequestValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAABAAAAA",
+              "Title": "CallWeatherApiService.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\GetWeather.Service\\CallWeatherApiService.cs",
+              "RelativeDocumentMoniker": "GetWeather.Service\\CallWeatherApiService.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\GetWeather.Service\\CallWeatherApiService.cs",
+              "RelativeToolTip": "GetWeather.Service\\CallWeatherApiService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:51:10.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRequest.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequest.cs",
-              "RelativeDocumentMoniker": "fluentValidationLearning\\UserRequest.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\UserRequest.cs",
-              "RelativeToolTip": "fluentValidationLearning\\UserRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:49:57.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "fluentValidationLearning",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\fluentValidationLearning.csproj",
-              "RelativeDocumentMoniker": "fluentValidationLearning\\fluentValidationLearning.csproj",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\fluentValidationLearning.csproj",
-              "RelativeToolTip": "fluentValidationLearning\\fluentValidationLearning.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-26T13:42:42.87Z",
+              "WhenOpened": "2026-01-03T10:49:41.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Program.cs",
-              "RelativeDocumentMoniker": "fluentValidationLearning\\Program.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\fluentValidationLearning\\Program.cs",
-              "RelativeToolTip": "fluentValidationLearning\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "02-Refit\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "02-Refit\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wCgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:40:32.378Z",
+              "WhenOpened": "2026-01-03T12:17:28.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAFEJAAAAAAAAAAApwG4JAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-18T13:48:31.765Z",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Program.cs",
+              "RelativeDocumentMoniker": "02-Refit\\Program.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Program.cs",
+              "RelativeToolTip": "02-Refit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:20:25.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Program.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAABIwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:22:58.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SimpleDI.csproj",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\SimpleDI.csproj",
-              "RelativeDocumentMoniker": "01-DI\\SimpleDI\\SimpleDI.csproj",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\SimpleDI.csproj",
-              "RelativeToolTip": "01-DI\\SimpleDI\\SimpleDI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T02:22:35.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:42:50.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WebApiWithDI.csproj",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "02-Refit\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "02-Refit\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T10:42:23.779Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T12:42:26.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CallWeatherApiModel.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\GetWeather.Service\\CallWeatherApiModel.cs",
+              "RelativeDocumentMoniker": "GetWeather.Service\\CallWeatherApiModel.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\GetWeather.Service\\CallWeatherApiModel.cs",
+              "RelativeToolTip": "GetWeather.Service\\CallWeatherApiModel.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAA9wHoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:29:53.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "02-Refit\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "02-Refit\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:36:04.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UserApiController.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserApiController.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserApiController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:38:12.102Z",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "02-Refit\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "02-Refit\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:35:24.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WebApiWithDI.http",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.http",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.http",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-16T10:37:46.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserRepository.cs",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserRepository.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserRepository.cs",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:37:32.16Z",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "02-Refit\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "02-Refit\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:35:21.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserService.cs",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserService.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserService.cs",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:37:22.371Z",
+              "Title": "CallWeatherApiWithRefit",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\GetWeather.Web.csproj",
+              "RelativeDocumentMoniker": "02-Refit\\GetWeather.Web.csproj",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\GetWeather.Web.csproj",
+              "RelativeToolTip": "02-Refit\\GetWeather.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T10:44:18.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\User.cs",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\User.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\User.cs",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:44:46.261Z",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "02-Refit\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\02-Refit\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "02-Refit\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:35:18.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\appsettings.json",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\appsettings.json",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\appsettings.json",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-16T02:39:25.35Z",
+              "DocumentIndex": 11,
+              "Title": "GetWeather.Service",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\GetWeather.Service\\GetWeather.Service.csproj",
+              "RelativeDocumentMoniker": "GetWeather.Service\\GetWeather.Service.csproj",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\GetWeather.Service\\GetWeather.Service.csproj",
+              "RelativeToolTip": "GetWeather.Service\\GetWeather.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T10:49:46.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
-              "RelativeToolTip": "01-DI\\WebApiWithDI\\Interface\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAmAAAA",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\Program.cs",
+              "RelativeDocumentMoniker": "01-DI\\SimpleDI\\Program.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\Program.cs",
+              "RelativeToolTip": "01-DI\\SimpleDI\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA4wAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:45:53.227Z",
+              "WhenOpened": "2026-01-03T10:22:44.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\Program.cs",
-              "RelativeDocumentMoniker": "01-DI\\SimpleDI\\Program.cs",
-              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\SimpleDI\\Program.cs",
-              "RelativeToolTip": "01-DI\\SimpleDI\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBYAAAABAAAA",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\Program.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\Program.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:22:44.923Z",
+              "WhenOpened": "2026-01-03T10:22:22.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserRepository.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserRepository.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserRepository.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:22:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserService.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserService.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserService.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:22:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApiWithDI.http",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-03T10:22:07.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserApiController.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\UserApiController.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\UserApiController.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\UserApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:22:05.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\User.cs",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\User.cs",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\User.cs",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:22:04.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebApiWithDI",
+              "DocumentMoniker": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "RelativeDocumentMoniker": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "ToolTip": "D:\\Workspace\\dotnet-learning-roadmap\\01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "RelativeToolTip": "01-DI\\WebApiWithDI\\WebApiWithDI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T10:22:01.125Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h3>
+        지금 한국 날씨는
+        @if (Model.Weather == null)
+        {
+            <span>로딩 중...</span>
+        }
+        else
+        {
+            <span>@Model.Weather.ObsrValue</span>
+        }
+    </h3>
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <div class="alert alert-danger">@Model.ErrorMessage</div>
+    }
+</div>
